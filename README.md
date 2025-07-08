@@ -26,9 +26,6 @@ VibePatch blends in like a bandage and uses a unique tap sequence to silently se
 - Affordable and scalable
 - Prototype-ready using open hardware
 
-## 📹 Demo Video
-
-👉 [Watch here](YOUR-YOUTUBE-LINK)
 
 ## 🏆 Recognition
 
